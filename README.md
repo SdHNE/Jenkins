@@ -1,2 +1,3 @@
 # Jenkins
 SoftTestDemo
+这是一个集成测试的Jenkins配置GitHub的尝试的仓库
